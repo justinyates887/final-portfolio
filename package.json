@@ -1,0 +1,19 @@
+{
+  "name": "final-portfolio",
+  "version": "1.0.0",
+  "description": "The final portfolio project for Justin Yates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinyates887/final-portfolio.git"
+  },
+  "author": "Justin Yates",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/justinyates887/final-portfolio/issues"
+  },
+  "homepage": "https://github.com/justinyates887/final-portfolio#readme"
+}
