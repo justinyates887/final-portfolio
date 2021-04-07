@@ -16,7 +16,9 @@
 
 A fully functional, application ready portfolio website showcasing my skills and projects.
 
-[deployment](https://justinyates887.github.io/final-portfolio/)
+[Deployment](https://justinyates887.github.io/final-portfolio/)
+
+![demo](./demo.png)
 
 <a name="installation"></a>
 ## Issues
