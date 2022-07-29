@@ -58,6 +58,10 @@ h6 {
   color: #fafafc;
 }
 
+#subtext1{
+  font-size: xx-small;
+}
+
 /* ----- container ----- */
 .container-fluid {
   overflow: hidden;
@@ -2727,5 +2731,3 @@ html.is-animating .fade-left {
             transform: scale(1);
   }
 }
-
-/*# sourceMappingURL=style.css.map */

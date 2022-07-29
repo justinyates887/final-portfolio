@@ -110,7 +110,7 @@ $(function() {
     }
   });
 
-  bar.animate(1);
+  bar.animate(.5);
 
   var bar = new ProgressBar.Circle(circleprog2, {
     strokeWidth: 7,
@@ -128,7 +128,7 @@ $(function() {
     }
   });
 
-  bar.animate(0.9);
+  bar.animate(0.5);
 
   var bar = new ProgressBar.Circle(circleprog3, {
     strokeWidth: 7,
@@ -146,7 +146,7 @@ $(function() {
     }
   });
 
-  bar.animate(0.7);
+  bar.animate(0.4);
 
   var bar = new ProgressBar.Line(lineprog1, {
     strokeWidth: 1.72,
@@ -163,7 +163,7 @@ $(function() {
     }
   });
 
-  bar.animate(.9);
+  bar.animate(.7);
 
   var bar = new ProgressBar.Line(lineprog2, {
     strokeWidth: 1.72,
@@ -180,7 +180,7 @@ $(function() {
     }
   });
 
-  bar.animate(.95);
+  bar.animate(.80);
 
   var bar = new ProgressBar.Line(lineprog3, {
     strokeWidth: 1.72,
@@ -197,7 +197,7 @@ $(function() {
     }
   });
 
-  bar.animate(.75);
+  bar.animate(.50);
 
   var bar = new ProgressBar.Line(lineprog4, {
     strokeWidth: 1.72,
@@ -214,7 +214,7 @@ $(function() {
     }
   });
 
-  bar.animate(.65);
+  bar.animate(.50);
 
   var bar = new ProgressBar.Line(lineprog5, {
     strokeWidth: 1.72,
@@ -231,7 +231,7 @@ $(function() {
     }
   });
 
-  bar.animate(.85);
+  bar.animate(.30);
 
   // Contact form
   $('.art-input').keyup(function() {
